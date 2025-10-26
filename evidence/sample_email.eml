@@ -1,0 +1,20 @@
+Return-Path: <mailer@randomdomain.xyz>
+Received: from unknown (HELO mail.randomdomain.xyz) (192.0.2.55)
+    by example.com with SMTP; Fri, 24 Oct 2025 12:00:00 +0000
+From: "Amazon Support" <amazonsupport@amaz0n-payments.com>
+To: sejalvartak@example.com
+Subject: Urgent: Verify your account now
+Date: Fri, 24 Oct 2025 11:59:50 +0000
+Message-ID: <testmessage-001@randomdomain.xyz>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear Customer,</p>
+<p>We detected suspicious activity on your Amazon account. Your account will be <b>permanently suspended in 24 hours</b> unless you verify immediately.</p>
+<p>Please verify here: <a href="http://amaz0n-secure-login.example.com/login">https://www.amazon.com/secure</a></p>
+<p>If you do not act within 24 hours your account will be closed.</p>
+<p>Regards,<br>Amazon Support Team</p>
+</body>
+</html>
