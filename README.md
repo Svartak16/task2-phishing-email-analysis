@@ -24,4 +24,4 @@ This project focuses on analyzing and investigating phishing emails. The aim is 
 ## How to Use
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/Svartak16/task2-phishing-email-analysis.git
